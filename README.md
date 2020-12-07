@@ -15,7 +15,10 @@
 O nosso projeto tem como intuito utilizar os conceitos e aplicação de Grafos para lidar com 2 caso/problemas famosos na computação, o do caixeiro viajante e o da coloração de grafos
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Screenshots
+![image example](./image1.png)
+![image example](./image2.png)
+![image example](./image3.png)
 
 ## Instalação 
 **Linguagem**: C++
@@ -33,10 +36,8 @@ g++ -o prog final.cpp
 
 Sendo primeiro para compilar o programa e o segundo para executa-lo
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Apos a execucao do programa, e necessario apenas digitar quantas ligações você deseja no grafo, depois disso as ligações e o valor entre cada 1 delas.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
