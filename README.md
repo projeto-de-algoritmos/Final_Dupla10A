@@ -15,7 +15,6 @@
 O nosso projeto tem como intuito utilizar os conceitos e aplicação de Grafos para lidar com 2 caso/problemas famosos na computação, o do caixeiro viajante e o da coloração de grafos
 
 ## Screenshots
-## Screenshots
 ![image example](./image1.png)
 ![image example](./image2.png)
 ![image example](./image3.png)
