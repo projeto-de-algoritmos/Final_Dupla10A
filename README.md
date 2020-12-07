@@ -1,44 +1,42 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+# Caixeiro Voador
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 6 
+**Conteúdo da Disciplina**: Final
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0039668  |  Lucas Ganda Carvalho |
+| 17/0047326  |  Wictor Bastos Girardi |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O nosso projeto tem como intuito utilizar os conceitos e aplicação de Grafos para lidar com 2 caso/problemas famosos na computação, o do caixeiro viajante e o da coloração de grafos
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![image example](./image1.png)
+![image example](./image2.png)
+![image example](./image3.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++
 
+Para a execucao do projeto basta apenas ter um compilador de C++ no sistema, para executa-lo no Linux, e necessario abrir o terminal e digitar os comandos :
+
+```
+g++ -o prog final.cpp
+```
+
+
+```
+./ prog
+```
+
+Sendo primeiro para compilar o programa e o segundo para executa-lo
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Apos a execucao do programa, e necessario apenas digitar quantas ligações você deseja no grafo, depois disso as ligações e o valor entre cada 1 delas.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
