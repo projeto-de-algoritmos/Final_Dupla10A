@@ -25,7 +25,7 @@ O nosso projeto tem como intuito utilizar os conceitos e aplicação de Grafos p
 Para a execucao do projeto basta apenas ter um compilador de C++ no sistema, para executa-lo no Linux, e necessario abrir o terminal e digitar os comandos :
 
 ```
-g++ -o prog final.cpp
+g++ -o prog ListaFinal.cpp
 ```
 
 
